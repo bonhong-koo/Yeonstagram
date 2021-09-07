@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "248707178802",
+    "project_id": "yeonstagram-e0c59",
+    "storage_bucket": "yeonstagram-e0c59.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:248707178802:android:4d185e3a2def1c3dcb372b",
+        "android_client_info": {
+          "package_name": "com.example.yeonstagram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "248707178802-5c5q6c7cin30tee4ar03q9vrmsveahr2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYxTP2HO_ZwNguSRKMONlMKeMnHdkB7b4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "248707178802-5c5q6c7cin30tee4ar03q9vrmsveahr2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

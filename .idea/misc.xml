@@ -3,6 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/user/AndroidStudioProjects/yeonstagram/app/src/main/res/layout/activity_add_photo.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/yeonstagram/app/src/main/res/layout/activity_login.xml" value="0.264" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/yeonstagram/app/src/main/res/layout/fragment_detail.xml" value="0.264" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/yeonstagram/app/src/main/res/layout/item_detail.xml" value="0.25364583333333335" />
         <entry key="..\:/yeonstagram/app/src/main/res/layout/activity_login.xml" value="0.36614583333333334" />
         <entry key="..\:/yeonstagram/app/src/main/res/layout/activity_main.xml" value="0.3515625" />
         <entry key="..\:/yeonstagram/app/src/main/res/layout/fragment_alram.xml" value="0.36614583333333334" />

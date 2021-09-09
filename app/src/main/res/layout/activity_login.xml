@@ -8,10 +8,10 @@
     tools:context=".loginActivity">
 
     <ImageView
-        android:layout_above="@+id/signin_layout"
-        android:layout_alignParentTop="true"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:layout_above="@+id/signin_layout"
+        android:layout_alignParentTop="true"
         android:src="@drawable/logo_title" />
 
     <LinearLayout

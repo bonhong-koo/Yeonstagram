@@ -5,7 +5,9 @@
       <map>
         <entry key="..\:/Users/user/AndroidStudioProjects/yeonstagram/app/src/main/res/layout/activity_add_photo.xml" value="0.25364583333333335" />
         <entry key="..\:/Users/user/AndroidStudioProjects/yeonstagram/app/src/main/res/layout/activity_login.xml" value="0.264" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/yeonstagram/app/src/main/res/layout/activity_main.xml" value="0.264" />
         <entry key="..\:/Users/user/AndroidStudioProjects/yeonstagram/app/src/main/res/layout/fragment_detail.xml" value="0.264" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/yeonstagram/app/src/main/res/layout/fragment_grid.xml" value="0.14010416666666667" />
         <entry key="..\:/Users/user/AndroidStudioProjects/yeonstagram/app/src/main/res/layout/fragment_user.xml" value="0.264" />
         <entry key="..\:/Users/user/AndroidStudioProjects/yeonstagram/app/src/main/res/layout/item_detail.xml" value="0.25364583333333335" />
         <entry key="..\:/Users/user/AndroidStudioProjects/yeonstagram/app/src/main/res/menu/bottom_navigation_main.xml" value="0.2" />
